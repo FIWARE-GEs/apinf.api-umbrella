@@ -16,5 +16,3 @@ jobs:
           owner: FIWARE
           base: master
           head: master
-          auto_approve: true
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
